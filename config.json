@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cartcecrypt",
+        "uuid": 26620920,
+        "checksum": "xbr2hn"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
